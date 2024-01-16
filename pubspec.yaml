@@ -61,6 +61,8 @@ flutter:
   assets:
      - assets/images/
      - assets/icons/
+     - assets/courses-backgrounds/
+
 
 
 
